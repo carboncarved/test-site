@@ -1,0 +1,20 @@
+{
+  "name": "test-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carboncarved/test-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carboncarved/test-site/issues"
+  },
+  "homepage": "https://github.com/carboncarved/test-site#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
